@@ -1,0 +1,10 @@
+@BiddingSystem.Api_HostAddress = http://localhost:5111
+
+POST http://localhost:5111/bids
+Content-Type: application/json
+
+{
+  "amount": 0,
+  "itemId": "test",
+  "bidderId": "string"
+}

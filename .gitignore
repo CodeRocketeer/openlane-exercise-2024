@@ -2,3 +2,4 @@ bin/
 obj/
 *.user
 *.vs
+BiddingSystem/BiddingSystem.Infrastructure/data/
